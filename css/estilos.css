@@ -1,3 +1,8 @@
+.contador{
+	position: absolute;
+	z-index: 3000;
+}
+
 .cabecera{
 	position: fixed;
 	width: 100%;
@@ -312,6 +317,11 @@ footer .social i{
 		background-color: #FFFFFF;
 		width: 100%;
 	}
+
+	.logo{
+	background-color: #FFFFFF;
+	height: 40px;
+}
 
 	.cabecera{
 		background-color: #FFFFFF;
