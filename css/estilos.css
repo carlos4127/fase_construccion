@@ -265,6 +265,15 @@ article h3{
 	text-transform: uppercase;
 }
 
+.paginaweb{
+
+    width: fit-content;
+    margin: 0 auto;
+}
+
+
+
+
 .video{
 	margin-bottom: 125px;
 	margin-top: 50px;
